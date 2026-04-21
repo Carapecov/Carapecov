@@ -7,7 +7,8 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 *PHP Web Developer*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=PHP&logoColor=Blue)
+![PHP]([https://img.shields.io/badge/PHP-blue?style=flat&logo=PHP&logoColor=Blue](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP
+)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -27,5 +28,5 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-carapecov-b46345385/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-carapecov-b46345385/)
 
