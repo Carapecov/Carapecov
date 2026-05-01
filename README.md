@@ -1,6 +1,17 @@
 # Olá, prazer em conhece-lô(a)! eu me chamo Giovane Carapecov.
 
-Sou um desenvolvedor em constante evolução, focado em criar soluções eficientes e visualmente atraentes. Desde aplicações web até protótipos de jogos!
+Sou um desenvolvedor em constante evolução, focado em transformar problemas reais em produtos eficientes, unindo engenharia de software com impacto social.
+
+
+## 🚀 Projeto Principal
+**Plenix 🐦‍🔥** - Uma plataforma web (PHP) focada na ODS-8 para impulsionar pequenos comerciantes através de diagnósticos inteligentes.
+
+*   **Diagnóstico Inteligente:** Análise de saúde do negócio para empreendedores que precisam de uma bússola.
+*   **Foco no Usuário:** Interface pensada para quem não tem tempo a perder e precisa de clareza.
+*   **Engenharia de Produto:** Desenvolvido com foco em escalabilidade e manutenção.
+<p align="center">
+  <img src="Plenix.jpeg" alt="Logo do Projeto Plenix" width="500">
+</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -19,7 +30,6 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 ## 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carapecov&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carapecov&layout=compact&langs_count=7&theme=nord"/>
 </p>
 
