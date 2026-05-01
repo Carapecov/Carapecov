@@ -1,4 +1,4 @@
-# Olá, prazer em conhece-lô(a)! eu me chamo Giovane Carapecov.
+# Olá, prazer em conhecê-lo(a)! eu me chamo Giovane Carapecov.
 
 Sou um desenvolvedor em constante evolução, focado em transformar problemas reais em produtos eficientes, unindo engenharia de software com impacto social.
 
@@ -18,7 +18,7 @@ Sou um desenvolvedor em constante evolução, focado em transformar problemas re
 *PHP Web Developer*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP).
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
