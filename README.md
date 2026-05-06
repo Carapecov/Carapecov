@@ -27,12 +27,6 @@ Sou um desenvolvedor em constante evolução, focado em transformar problemas re
 
 ![GDScript](https://img.shields.io/badge/GDScript-blue)
 
-## 📊 Minhas Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carapecov&layout=compact&langs_count=7&theme=nord"/>
-</p>
-
 ---
 
 ## 📫 Vamos nos conectar?
