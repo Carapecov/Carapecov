@@ -25,7 +25,7 @@ Inovar não é algo fácil, é analisar riscos, organizar, testar, validar, pens
 
 Projeto voltado ao apoio de microempreendedores, com foco na ODS 8 — Trabalho Decente e Crescimento Econômico.
 
-### [Hurry](https://github.com/Carapecov)
+### [Hurry](https://github.com/Carapecov/Hurry)
 
 Projeto de simulação bancária que explora conceitos de programação e operações relacionadas a sistemas financeiros.
 
